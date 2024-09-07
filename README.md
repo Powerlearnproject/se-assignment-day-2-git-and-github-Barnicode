@@ -61,6 +61,14 @@ Stage Changes: Use git add . to stage all changes for the next commit.
 Commit Changes: Run git commit -m "Your commit message" to commit the staged changes with a descriptive message.
 Push Changes: Use git push origin main to push your commit to the remote repository on GitHub.
 
+**Commits are snapshots of your project’s files at specific points in time. Each commit records the state of the project, including changes made to the files, and is accompanied by a unique identifier and a descriptive message.**
+
+**How Commits Help:**
+Tracking Changes: Commits provide a detailed history of modifications, allowing you to see what changes were made, when, and by whom.
+Version Management: By creating commits, you can manage different versions of your project, making it easy to revert to previous states if needed.
+Collaboration: Commits facilitate collaboration by enabling multiple developers to work on the same project without overwriting each other’s changes.
+Accountability: Each commit is associated with a specific author, promoting accountability and transparency in the development process.
+Branching and Merging: Commits allow you to create branches for new features or bug fixes and merge them back into the main codebase once they’re ready.
 ## How does branching work in Git, and why is it an important feature for collaborative development on GitHub? Discuss the process of creating, using, and merging branches in a typical workflow.
 
 ## Explore the role of pull requests in the GitHub workflow. How do they facilitate code review and collaboration, and what are the typical steps involved in creating and merging a pull request?
