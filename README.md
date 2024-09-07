@@ -9,7 +9,7 @@ Version control helps maintain project integrity by tracking all changes made to
 ## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 ANSWE: To set up a new repository on GitHub, log in, click the + icon to create a new repository, fill in the details, initialize it with a README file if desired, and then clone the repository to your local machine using the provided URL.
 
-**To set up a new repository on GitHub, here are the key steps involved:**
+**steps involved in setting up a new repository on GitHub:**
 Log In: Access your GitHub account.
 Create a New Repository: Click the + icon in the upper-right corner and select New repository.
 Repository Details: Enter a name for your repository and an optional description.
